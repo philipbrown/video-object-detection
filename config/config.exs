@@ -7,6 +7,8 @@
 # General application configuration
 import Config
 
+config :nx, default_backend: EXLA.Backend
+
 # Configures the endpoint
 config :app, AppWeb.Endpoint,
   url: [host: "localhost"],
