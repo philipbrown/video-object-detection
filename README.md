@@ -1,5 +1,7 @@
 # App
 
+![Object Detection](https://github.com/philipbrown/video-object-detection/raw/main/preview.gif "Object Detection")
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
